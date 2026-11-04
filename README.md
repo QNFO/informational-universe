@@ -1,3 +1,5 @@
+> **MOVED (2026-11-04):** this repository is archived. Its content and history now live in [QNFO/qnfo-research/informational-universe](https://github.com/QNFO/qnfo-research/tree/main/informational-universe).
+
 # The Informational Universe
 
 **QNFO.INM.001** · Information-physics program
